@@ -52,7 +52,7 @@ make
 ```
 
 ### 3. Executar o projeto
-Depois de gerado o executável, basta jogar o seguinte comando para executar `./tsp`:
+Depois de gerado o executável, basta jogar o seguinte comando para executar `./Upcv`:
 
 ```bash
 ./Upcv
