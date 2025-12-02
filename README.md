@@ -2,8 +2,6 @@
 
 Este repositório contém a implementação computacional de algoritmos de otimização combinatória aplicados ao *Network Design Problem* (Problema de Projeto de Redes). O objetivo é projetar uma topologia de rede ferroviária conectando as 27 capitais brasileiras, minimizando custos de construção e maximizando a eficiência logística.
 
-Trabalho desenvolvido como requisito da disciplina de **Computação Evolucionária / Pesquisa Operacional** do curso de Engenharia de Computação do **CEFET-MG**.
-
 ## 📋 Sobre o Projeto
 
 O projeto utiliza a linguagem C++ para resolver o problema bicritério (Custo vs. Tempo de Viagem) utilizando as seguintes abordagens:
